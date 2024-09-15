@@ -1,15 +1,6 @@
 # part_2
-## Notes:
+## Notes:                    
 
 
 
-| Topics                                                  | Links                                                       |  
-|---------------------------------------------------------|-------------------------------------------------------------|
-|1. Javascript               | https://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf|                  
-|2.                                                       |To be updated                                               |
-|3.                                                        |To be updated                                            |
-|To be updated                                            |To be updated                                              |
-|To be updated                                            |To be updated                                                              |
-|To be updated                                            |To be updated                                     |           
-|To be updated                                            |To be updated                                                 |  
-://static.frontendmasters.com/resources/2019-09-18-javascript-hard-parts-v2/javascript-hard-parts-v2.pdf
+![carbon](https://github.com/user-attachments/assets/525ac470-ab43-467f-b9a2-abde601f917e)
