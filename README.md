@@ -18,7 +18,7 @@ if (2+2 ===4) {
 addFive(10);
 ```
 
-```ruby
+```
 function addFive(number) {
 const someVariable = "you can't see me outside this function";
 if (true) {
