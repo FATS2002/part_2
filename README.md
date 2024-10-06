@@ -2,7 +2,7 @@
 
 #### Notes:                    
 
-```ruby
+```javascript
 function addFive(number) {
 const someVariable = "you can't see me outside this function";
 if (true) {
